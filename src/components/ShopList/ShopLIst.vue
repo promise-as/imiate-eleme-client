@@ -253,7 +253,7 @@
                 color: #333333;
                 font-size: 0.16rem;
                 line-height: 0.16rem;
-                font-weight: 7rem; // 700
+                font-weight: 700;
                 &::before{
                   content: '品牌';
                   display: inline-block;
